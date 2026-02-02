@@ -117,7 +117,7 @@ fi
 mkdir -p "$TARGET_HOME/.config"
 echo "Downloading Starship Config (Credit: ChrisTitusTech)..."
 # Added -4 for IPv4 stability
-curl -4 -o "$TARGET_HOME/.config/starship.toml" https://raw.githubusercontent.com/ChrisTitusTech/mybash/main/starship.toml
+curl -4 -o "$TARGET_HOME/.config/starship.toml" https://raw.githubusercontent.com/bhardwaj-23/ZSH-MOD/main/starship.toml
 
 # ==========================================
 # 4. Install Meslo Nerd Fonts
