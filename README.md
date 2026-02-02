@@ -10,7 +10,7 @@ Install and configure everything with a single command:
 curl -fsSL https://raw.githubusercontent.com/bhardwaj-23/ZSH-MOD/main/zsh-mod.sh | sudo bash
 ```
 
-Option 2: Manual Install
+### Option 2: Manual Install
 
 Download this script:
 
