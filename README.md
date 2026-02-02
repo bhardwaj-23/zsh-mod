@@ -7,7 +7,7 @@
 Install and configure everything with a single command:
 
 ```bash
-sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/bhardwaj-23/ZSH-MOD/main/zsh-mod.sh)"
+curl -fsSL https://raw.githubusercontent.com/bhardwaj-23/ZSH-MOD/main/zsh-mod.sh | sudo bash
 ```
 
 Option 2: Manual Install
