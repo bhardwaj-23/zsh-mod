@@ -36,7 +36,7 @@ show_banner() {
     printf "${P}      Credits: Starship • Fastfetch • CTT       ${NC}\n"
     printf "\n"
     printf "                                     by @PiyushBhardwaj\n"
-    printf "github.com/bhardwaj-23"
+    printf "https://github.com/bhardwaj-23"
     printf "\n"
 }
 
