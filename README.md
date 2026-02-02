@@ -1,6 +1,16 @@
 # zsh-mod
 
-## Usage
+## 🚀 Installation
+
+### Option 1: Quick Install (Recommended)
+
+Install and configure everything with a single command:
+
+```bash
+sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/bhardwaj-23/ZSH-MOD/main/zsh-mod.sh)"
+```
+
+Option 2: Manual Install
 
 Download this script:
 
